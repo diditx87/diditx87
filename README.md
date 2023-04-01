@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Didit Apriyanto @diditx87
-- 👀 I’m interested in PHP & NodeJS (especially the Backend)
+- 👀 I’m interested in PHP & NodeJS (especially the Backend API)
 - 👀 I'm also learning solidity language
 - 🌱 I’m currently learning & keep learning
 - 💞️ I'm Looking For Job
