@@ -2,8 +2,6 @@
 - 👀 I’m interested in PHP & NodeJS (especially the Backend API)
 - 👀 I'm also learning solidity language
 - 🌱 I’m currently learning & keep learning
-- 💞️ I'm Looking For Job
-- 📫 Contact me if needed
 
 
 
