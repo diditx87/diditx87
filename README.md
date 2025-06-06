@@ -53,7 +53,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:diditx87@gmail.com"><img src="https://img.shields.io/badge/Gmail-diditx87@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://x.com/diditx87"><img src="https://img.shields.io/badge/Twitter-Initial D-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <!-- Tambahkan social link lain jika ada -->
 </p>
 
