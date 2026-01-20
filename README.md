@@ -5,13 +5,20 @@
   <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250" alt="coding gif"/>
 </p>
 
+<p align="center">
+  <a href="https://dx7.dev"><img src="https://img.shields.io/badge/Website-dx7.dev-00ff88?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-red?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Available-For%20Hire-brightgreen?style=for-the-badge" alt="Available"/>
+</p>
+
 ---
 
 ### 🚀 About Me
 
 - 💻 Backend developer dengan passion di dunia **Crypto** & **Web3**
-- 🔥 Expert di **Node.js**, juga bisa **PHP**
-- 🛠️ Suka eksplorasi teknologi baru & open source
+- 🔥 Expert di **Node.js**, juga skilled di **PHP**
+- 🛠️ Suka eksplorasi teknologi baru, open source, **smart contracts** & **blockchain**
+- 🐧 Linux enthusiast
 - 🎵 Musik & coding adalah kombinasi wajib!
 
 ---
@@ -20,8 +27,21 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Web3](https://img.shields.io/badge/-Web3-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Crypto](https://img.shields.io/badge/-Crypto-00599C?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Crypto](https://img.shields.io/badge/-Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Cryptonic**](https://cryptonic.id) | A small community focused on crypto | React, Node.js, PHP |
+| [**Automatonic**](https://automatonic.id) | AI-powered community for automated content creation and affiliate marketing | N8N, Node.js, Automation |
+| [**DramaChina API**](https://dramachina.dev) | API for Chinese drama information and streaming data | Node.js, Express |
 
 ---
 
@@ -53,8 +73,11 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://x.com/diditx87"><img src="https://img.shields.io/badge/Twitter-Initial D-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <!-- Tambahkan social link lain jika ada -->
+  <a href="https://github.com/diditx87"><img src="https://img.shields.io/badge/GitHub-diditx87-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://x.com/diditx87"><img src="https://img.shields.io/badge/Twitter-diditx87-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/didit-apriyanto-063a86187"><img src="https://img.shields.io/badge/LinkedIn-Didit%20Apriyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/diditx87"><img src="https://img.shields.io/badge/Instagram-diditx87-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:ditz@dx7.dev"><img src="https://img.shields.io/badge/Email-ditz@dx7.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -63,6 +86,7 @@
 
 - 🚀 Suka ngoprek smart contract & blockchain
 - 🕹️ Kadang main game setelah ngoding
+- 📈 5+ years experience in development
 - 🤝 Open for collaboration, feel free to reach out!
 
 ---
