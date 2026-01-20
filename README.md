@@ -35,16 +35,6 @@
 
 ---
 
-### 🚀 Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Cryptonic**](https://cryptonic.id) | A small community focused on crypto | React, Node.js, PHP |
-| [**Automatonic**](https://automatonic.id) | AI-powered community for automated content creation and affiliate marketing | N8N, Node.js, Automation |
-| [**DramaChina API**](https://dramachina.dev) | API for Chinese drama information and streaming data | Node.js, Express |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
